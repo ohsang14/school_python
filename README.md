@@ -1,1 +1,1 @@
-# school_python
+# 학교 김동신 교수님 Python 수업 실습
